@@ -1,10 +1,7 @@
 {
   "main.css": "static/css/main.5d1f72c9.css",
   "main.css.map": "static/css/main.5d1f72c9.css.map",
-  "main.js": "static/js/main.8271ed36.js",
-  "main.js.map": "static/js/main.8271ed36.js.map",
-  "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg",
-  "static\\media\\nations_data.csv": "static/media/nations_data.3a506f16.csv",
-  "static\\media\\probabilities.csv": "static/media/probabilities.82121af3.csv",
-  "static\\media\\winners.csv": "static/media/winners.af592692.csv"
+  "main.js": "static/js/main.fa798ec2.js",
+  "main.js.map": "static/js/main.fa798ec2.js.map",
+  "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg"
 }
